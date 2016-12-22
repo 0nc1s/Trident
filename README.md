@@ -28,6 +28,7 @@ Supported device targets:
 * iPad2,3 (K95AP), iOS 9.3.3 (Genoa 13G34)
 * iPad2,4 (K93AAP), iOS 9.3.2 (Frisco 13F69)
 * iPad3,1 (J1AP), iOS 9.3.4 (Genoa 13G35)
+
 Want to contribute a device target? [Karen (angelXwind) wrote a tutorial on how to find addresses for Trident.](https://angelxwind.net/?page/trident-address-tutorial)
 
 References:
